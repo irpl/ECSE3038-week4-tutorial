@@ -17,7 +17,7 @@
 
    - In Windows
      ```powershell
-     & .\venv\Scripts\activate
+     & .\venv\Scripts\Activate.ps1
      ```
    - Lunix and MacOS
      ```sh
